@@ -2,7 +2,7 @@
 
 A simple and responsive weather application that allows users to check the current weather of any city using the [OpenWeatherMap API](https://openweathermap.org/api).
 
-## 🚀 Features
+##  Features
 
 - Real-time weather information
 - Dynamic weather icons (sun, clouds, rain, etc.)
@@ -10,13 +10,13 @@ A simple and responsive weather application that allows users to check the curre
 - Error handling for invalid city names
 - Clean and modern user interface
 
-## 🖼️ Screenshot
+## Screenshot
 
 ![Weather App Screenshots]: 1.[ https://github.com/Dhruthi-Kashyap/weather-api/blob/main/images/output1.png]
 2. [http://github.com/Dhruthi-Kashyap/weather-api/blob/main/images/invalid%20city%20name.png]
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **HTML5**
 - **CSS3**
